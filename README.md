@@ -28,12 +28,12 @@ foobar.singularize('phenomena')
 ## Ejemplo de Enlace a licencia.
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<h1 align="center">Hi 👋, I'm Angel "EJEMPLO"</h1>
-<h3 align="center">I am passionate about technology, and I make a living from it. It's great.</h3>
+<h1 align="center">Hi 👋, Hola, soy Angel </h1>
+<h3 align="center">Soy un apasionado de la tecnologia, siempre viendo algo nuevo.</h3>
 
-- 🌱 I’m currently learning **BootCamp High performance in Hackio**
+- 🌱 Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial | Septiembre 2024 | Ibm Skillsbuild
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/angel-roman-861583139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelromanosma" height="30" width="40" /></a>
 </p>
