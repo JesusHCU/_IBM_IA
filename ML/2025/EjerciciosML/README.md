@@ -94,3 +94,5 @@ IA jugadores -> IAJugadores.py
 
 Consumo energético -> PrediccionConsumoEnergia.py
 
+Materiales Recicables -> MaterialesRecicables.py
+
