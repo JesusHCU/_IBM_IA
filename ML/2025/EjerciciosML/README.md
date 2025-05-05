@@ -98,3 +98,6 @@ Materiales Recicables -> MaterialesRecicables.py
 
 jugadores baloncesto -> jugadoresbaloncestoEjerc.py
 
+Nivel de estrés -> NivelEstres.py
+
+
