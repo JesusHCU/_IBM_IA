@@ -96,7 +96,7 @@ Consumo energético -> PrediccionConsumoEnergia.py
 
 Materiales Recicables -> MaterialesRecicables.py
 
-jugadores baloncesto -> jugadoresbaloncestoEjerc.py
+Jugadores baloncesto -> jugadoresbaloncestoEjerc.py
 
 Nivel de estrés -> NivelEstres.py
 
