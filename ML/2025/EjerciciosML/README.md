@@ -101,3 +101,5 @@ Jugadores baloncesto -> jugadoresbaloncestoEjerc.py
 Nivel de estrés -> NivelEstres.py
 
 Piezas industriales -> PiezasIndustriales.py
+
+Perfiles de Sueño -> PerfilesSueño.py
