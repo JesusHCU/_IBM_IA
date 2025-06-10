@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, Hola, soy Angel </h1>
+<h1 align="center">Hi 👋, Hola, Este es un fork de Angel </h1>
 <h3 align="center">Soy un apasionado de la tecnologia, siempre viendo algo nuevo.</h3>
 
 - 🌱 Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Programa de Aprendizaje Basado enIA 325 Curso becado datahack IBM SkillsBuild
 
-<h3 align="left">Contacta conmigo:</h3>
+<h3 align="left">Contacta con él:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/angel-roman-861583139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelromanosma" height="30" width="40" /></a>
 </p>
